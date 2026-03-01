@@ -74,7 +74,7 @@ pip install -r requirements.txt
 - Запускаем парсер
 
 ```python
-crapy crawl alkoteka_catalog -O result.json        
+scrapy crawl alkoteka_catalog -O result.json        
 ```
 
 - После завершения работы парсера появится файл ```result.json```
