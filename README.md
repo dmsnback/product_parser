@@ -97,15 +97,18 @@ crapy crawl alkoteka_catalog -O result.json
     "price_data": {
         "current": 1130.0,
         "original": 949.0,
-        "sale_tag": "Скидка 16%"},
+        "sale_tag": "Скидка 16%"
+    },
     "stock": {
         "in_stock": true,
-        "count": 7107},
+        "count": 7107
+    },
     "assets": {
         "main_image": "https://web.alkoteka.com/storage/product/7b/53/77235_image.png",
         "set_images": [],
         "view360": [],
-        "video": []},
+        "video": []
+    },
     "metadata": {
         "__description": "Цвет светло-соломенный  Аромат яркий, с оттенками белых цветов, тропических фруктов и ванили  Вкус сбалансированный, с нотами дыни, жёлтой груши, манго, ананаса, луговых цветов и лёгкими цитрусовыми нюансами в послевкусии",
         "Артикул": "77235",
@@ -113,7 +116,8 @@ crapy crawl alkoteka_catalog -O result.json
         "Производитель": "Поместье Голубицкое",
         "Цвет": "Белое",
         "Объём": "min-0.75л., max-0.75л.",
-        "Крепость": "min-12.5%, max-12.5%"},
+        "Крепость": "min-12.5%, max-12.5%"
+    },
         "variants": 1
 }
 ```
